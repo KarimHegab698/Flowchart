@@ -1,0 +1,11 @@
+5
+STRT  5  440  191
+
+END  5  75  0
+
+COND 5  669  451  hg  ==  u
+
+READ  5  187  430  h
+
+WRITE  5  521  310  hi
+
